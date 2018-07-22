@@ -3,9 +3,9 @@ Pequeño IA chatbot que te sugiere planes para hacer en canarias. Eventos, Museo
 
 
 # About the Author
-[Antonio Sejas](https://sejas.es) is a Remote React Native & FullStack Developer, Computer Engineer (UPM), Mongo Developer Certified (MongoDB University) and mentor of React @Udacity.
+[Antonio Sejas](https://sejas.es) is a Remote React Native & FullStack Developer, Computer Engineer (UPM), Mongo Developer Certified (MongoDB University).
 
-React, Vue, and NodeJS Trainer.
+Mentor of React @Udacity and React, Vue, and NodeJS Trainer.
 
 Founder of Baulen.es and JSSchool.es
 
